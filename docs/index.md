@@ -3,43 +3,73 @@ title: Home Page
 layout: default
 navigation_weight: 1
 ---
-# Issue: Lesson Template
+# Node Lessons Project Home Page
 
-State the issue of the problem in the form of a question
+{{ site.tagline }}
 
 ## Table O Contents
+
+![MMI™ Flammarion Logo Badge](assets/img/svg/MMI-Medmj-Org-Got-Tree-Flammarion-Person-Through-Celestial-Sphere-circle-543-x-543.svg){:width="120px"}
 
 - TOC
 {:toc}
 
-## Solution
+**Note**. The above **Live** rendition of the **MMI™ Flammarion Logo Badge** ( if visible ) is an `( .svg )` image file set to the dimensions of 120.00 px X 120.00 px.
 
-Expound the solution ...
+## Issue
 
-Place the introducing line of text ie.) the 'tagline' here ...
+The **Issue** of a successful legal argument is prefaced by a concise, to the point coin flip.
 
-## The Code
+Should it be, or should it not?
+
+### The Socratic Method
+
+State the issue of the problem in the form of a question ie.) How do you code this stuff?
+
+## Rule
+
+The rule may be split into two components ...
+
+### Current Majority View
+
+What is the current view as expressed by the majority of federal districts and state courts based on the common law with reference to the UCC, 2nd Restatements, etc. et al?
+
+### The Minority View
+
+What is the minority view as expressed by the dissent?
+
+## Analysis
+
+The analysis reviews both sides of the legal coin in depth
+
+### The Code
 
 Highlight the code ...
 
-## Summation
-
-Delineate the steps ...
-
-## Live
-
-Render the code live
-
-## Raw Code
-
-More to come ...
-
 ```liquid
 {% raw %}
-`...`
+[Medcoin™ Crypto Currency Project: Ping-back Home Page](https://rwebaz.github.io/Medcoin-Crypto-Currency-Project/){:target="_blank"}
 {% endraw %}
 ```
 
-***
+### Live
 
-**Source**: [Project Source Links](https://rwebaz.github.io/Node-Lessons-Project/pages/Source-Links.html){:target="_self"}
+Render the code live ...
+
+## Conclusion
+
+A concise conclusion wraps the argument ...
+
+### Summation
+
+Delineate the steps ...
+
+### Solution
+
+Expound the solution ...
+
+{% include sources-and-uses.md %}
+
+### External Sources
+
+- The [Project Source Links](https://mminail.github.io/Node/Source-Node-Links.htm){:title="Click to Visit the Source Links page of the Node Lessons Project at GitHub pages"}{:target="_blank"} page of the Node Lessons Project. Published by © 2017 [Mminail.github.io](https://mminail.github.io/){:title="Click to Visit the Concept Library of the Medical Marijuana Initiative of North America - International Limited, an Arizona Benefit Corporation"}{:target="_blank"}.
