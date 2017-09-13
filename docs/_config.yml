@@ -67,7 +67,7 @@ defaults:
       type: "collection_LLP"
     values:
       layout: "page"
-gems:
+plugins_dir:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
