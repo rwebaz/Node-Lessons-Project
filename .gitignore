@@ -265,6 +265,8 @@ paket-files/
 # Node dependencies
 /platforms
 /node_modules
+package.json
+package-lock.json
 #
 # IDEs and editors
 /.idea
