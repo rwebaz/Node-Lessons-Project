@@ -1,10 +1,10 @@
 # Site settings
 #
-# Date of this Update to Config-template file ver 08-13-2017
+# Date of this Update to Config-template file ver 12-18-2017
 #
 # github: [metadata]
 theme: "jekyll-theme-cayman"
-# repository: rwebaz/Markdown-Lessons-Project
+# repository: https://www.github.com/rwebaz/Node-Lessons-Project
 title: "Node Lessons Project"
 tagline: "A GitHub repo of Node lessons that emphasize both the GFM and Kramdown engines"
 description: "A GitHub repo of Node lessons that emphasize both the GFM and Kramdown engines"
@@ -15,7 +15,7 @@ author:
     email: "mminail@icloud.com"
     github_username: "mminail"
     twitter_username: "mminail"
-# The 'baseurl' is the subpath of your website, e.g. /blog
+# The 'baseurl' is the subpath of your designated project, e.g. /Liquid-Lessons-Project
 baseurl: "/Node-Lessons-Project"
 # The 'url' is the parental web address of your designated project, e.g. /https://rwebaz.github.io
 url: "https://rwebaz.github.io"
