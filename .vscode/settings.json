@@ -1,0 +1,14 @@
+{ // The Begin curly brace for Workspace Settings
+
+  // This is an array. Use brackets.
+  "cSpell.words": [
+    "cryptocurrency",
+    "expresshello"
+  ],
+
+  // This is a key - value pair object. Use braces.
+  "jshint.options": {
+  "esversion": 6
+  }
+
+} // The Close curly brace for Workspace Settings
