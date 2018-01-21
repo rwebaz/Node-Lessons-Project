@@ -1,4 +1,11 @@
-// Node URL Component C=> https://www.w3schools.com/nodejs/nodejs_http.asp
+// Extendnode
+/// @title Extend Node = Extendnode
+// - A simple program written in Javascript that takes advantage of the Node.js™ Server program.
+// Copyright (c) 2000 - 2018 Robert Weber FBO Node Lessons Project
+// C=> https://rwebaz.github.io/Node-Lessons-Project/pages/Extend-Node.html
+
+"use strict";
+// As of ES7 the Global use of the strict string pragma is recommended
 
 // Load the required modules
 var http = require('http');
@@ -23,9 +30,9 @@ http.createServer(function (req, res) {
     // The request req has a property called url
     // The http.IncomingMessage object represents a request req from the client
     // The url property holds the part of the url that comes after the domain name: port of the incoming message
-    res.write(req.url);
-
-    res.end();
+    var q = url.parse(req.url, true).query;
+    var txt = q.year + " " + q.month;
+    res.end(txt);
     
     // Listen for incoming traffic, if any, over browser port 8080 C=> http://localhost:8080/
 }).listen(8080);

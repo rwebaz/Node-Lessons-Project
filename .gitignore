@@ -1,5 +1,5 @@
 #
-# Template Dtd 12-20-17
+# Template Dtd 12-31-17
 #
 # See http://help.github.com/ignore-files/ for more about ignoring files.
 #
@@ -600,8 +600,8 @@ Thumbs.db
 # npm
 # Commit all npm-lock
 # npm install
-# package.json
-# package-lock.json
+package.json
+package-lock.json
 #
 npm-debug.log*
 npm-debug.log
@@ -609,9 +609,8 @@ npm-debug.log
 # yarn
 # Commit all yarn-lock
 # yarn install
-# package.json
-# package-lock.json
-# yarn.lock
+package.json
+yarn.lock
 #
 # gem
 # Commit all gem-lock
@@ -621,4 +620,47 @@ npm-debug.log
 #
 # Prince XML Output files
 *.pdf
+#
+# From Xamarin - Visual Studio Mac
+#
+# Autosave files
+*~
+#
+# build
+[Oo]bj/
+[Bb]in/
+packages/
+TestResults/
+#
+# globs
+Makefile.in
+*.DS_Store
+*.sln.cache
+*.suo
+*.cache
+*.pidb
+*.userprefs
+*.usertasks
+config.log
+config.make
+config.status
+aclocal.m4
+install-sh
+autom4te.cache/
+*.user
+*.tar.gz
+tarballs/
+test-results/
+Thumbs.db
+#
+# Mac bundle stuff
+*.dmg
+*.app
+$
+# resharper
+*_Resharper.*
+*.Resharper
+#
+# dotCover
+*.dotCover
 #
