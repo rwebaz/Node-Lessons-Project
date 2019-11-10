@@ -5,7 +5,7 @@ navigation_weight: 1
 ---
 # Node Lessons Project Home Page
 
-{{ site.tagline }}
+{{ site.description }}
 
 ## Table O Contents
 
