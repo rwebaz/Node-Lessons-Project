@@ -1,9 +1,9 @@
 ---
-title: Http Node
+title: Shell Gist
 layout: default
 excerpt: Place the introducing line of text ie.) the 'tagline' here ...
 hint: Place the intro paragraph ie.) the 'hypothesis' here ...
-repo: Node-Lessons-Project
+repo: Shell-Lessons-Project
 ver_date: 11-20-19
 navigation_weight: 8
 categories: template
@@ -22,9 +22,9 @@ More to come ...
 
 ***
 
-**Note**. The above synopsis was derived from an article written by Blank Author [[1](#W3SCHOOLS){:.red}].
+**Note**. The above synopsis was derived from an article written by Blank Author [[1](#BLANKAUTHOR){:.red}].
 
-1. {:#W3SCHOOLS}[Node Http Module](https://www.w3schools.com/nodejs/nodejs_http.asp){:title="Click to Visit the 'Node Http Module' of the Node.js™ Web-development Course at W 3 Schools dot com"}{:target="_blank"}
+1. {:#BLANKAUTHOR}[A Narrative of Psychology by Blank Author, Jan #1999](http://cowles.yale.edu/sites/default/files/files/pub/d20/d2069.pdf){:target="_blank"}
 
 ***
 

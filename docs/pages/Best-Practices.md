@@ -1,5 +1,5 @@
 ---
-title: Express Hello
+title: Best Practices
 layout: default
 excerpt: Place the introducing line of text ie.) the 'tagline' here ...
 hint: Place the intro paragraph ie.) the 'hypothesis' here ...
@@ -22,9 +22,9 @@ More to come ...
 
 ***
 
-**Note**. The above synopsis was derived from an article written by Front End Masters [[1](#FRONTENDMASTERS){:.red}].
+**Note**. The above synopsis was derived from an article written by Hiroku dot com [[1](#HEROKU){:.red}].
 
-1. {:#FRONTENDMASTERS}[Node Express Hello Program](https://www.frontendmasters.com/courses/web-development/express){:title="Click to Visit the 'Node Express Hello Program' of the Express Web-development Course at Front End Masters dot com"}{:target="_blank"}
+1. {:#HEROKU}[Node Best Practices](https://devcenter.heroku.com/articles/node-best-practices){:title="Click to Review 'Node Best Practices' at the 'Articles' section of the Heroku Development Center"}{:target="_blank"}
 
 ***
 
